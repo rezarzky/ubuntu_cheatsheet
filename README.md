@@ -219,3 +219,16 @@ exit #close tmux
 2. lscpu
 3. hardinfo
 ```
+
+# Switch User on Terminal
+***
+##### Check current user
+```
+whoami
+```
+##### Check current user
+```
+sudo -u [username]
+ex:
+sudo -u User2 zsh
+```
