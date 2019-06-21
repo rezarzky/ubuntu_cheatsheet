@@ -228,7 +228,7 @@ whoami
 ```
 ##### Check current user
 ```
-sudo -u [username]
+su -u [username]
 ex:
-sudo -u User2 zsh
+su -u User2 zsh
 ```
