@@ -232,3 +232,18 @@ su -u [username]
 ex:
 su -u User2 zsh
 ```
+
+
+## Network
+***
+##### Check IP
+```
+ifconfig
+```
+## Change Routing Table
+```
+sudo ip route add IP_VPN via "Current Gateway" dev wlan0
+sudo ip route del default via "Current Gateway" dev wlan0
+sudo ip route add default via "Gateway VPN" dev vpn
+ip route show
+```
