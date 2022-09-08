@@ -36,7 +36,7 @@ tri_recursion(6)
 #list to string ' '
 " ".join(str(e) for e in list)
 
-#======Common Mistakes====
+#======Mistakes from Practice====
 #1. Programming before done read_string1
 #2. Need to parse the meaning question, dont get bagged down in the excessive verbosity
 #3. READ -> PARSE IN NOTES AS COMMAND -> USE PSEUDO CODE
