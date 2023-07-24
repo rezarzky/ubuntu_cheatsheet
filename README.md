@@ -1,8 +1,8 @@
-# Ubuntu Command That I Always Forgot
+# Some of ubuntu command
 
 ## Firewall
 ***
-using ufw firewall (Uncomplicated Firewall) -PS:Always use sudo
+using ufw firewall (Uncomplicated Firewall)
 
 ##### Install UFW
 ```
